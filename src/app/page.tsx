@@ -44,6 +44,7 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="text-3xl text-red-700">
+      <h1 className="text-red-500">Hello bc79</h1>
       <Image
         src="https://movienew.cybersoft.edu.vn/hinhanh/lat-mat-48h_gp01.jpg"
         width={500}
